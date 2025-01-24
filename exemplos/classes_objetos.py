@@ -8,7 +8,7 @@ class Carro:
         print(f'O {self.marca} {self.modelo} está ligado.')
 
 # Criando um objeto da classe Carro
-meu_carro = Carro("Toyota","Corolla", "Prata")
+meu_carro = Carro("Chevrolet","Celta", "Prata")
 
 # Acessando atributos do objeto
 print(meu_carro.marca)
